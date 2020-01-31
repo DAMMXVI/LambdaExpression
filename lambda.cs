@@ -1,7 +1,7 @@
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             var people = new People() { id = 5, name = "Alper" };
 
 
